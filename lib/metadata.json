@@ -1,0 +1,542 @@
+{
+  "vaultName": "Uno",
+  "lastExport": 1739376964510,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon ctp-frappe ctp-full-palette",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Ironsworn/Monarch/Characters/Alisa “Badger” Shepherd.md",
+    "Ironsworn/Monarch/Characters/Aparna \"Hellion\" Solas.md",
+    "Ironsworn/Monarch/Characters/Argus “Spider” Shin.md",
+    "Ironsworn/Monarch/Characters/Elara Five.md",
+    "Ironsworn/Monarch/Characters/Fey Zariri.md",
+    "Ironsworn/Monarch/Factions/Faction Influence Grid.md",
+    "Ironsworn/Monarch/Factions/Order of the Ashen Stars.md",
+    "Ironsworn/Monarch/Factions/Serene League.md",
+    "Ironsworn/Monarch/Factions/Suns of the Stellar Commonwealth.md",
+    "Ironsworn/Monarch/Journals/Session 0.md",
+    "Ironsworn/Monarch/Journals/Session 1.md",
+    "Ironsworn/Monarch/Journals/Session 2.md",
+    "Ironsworn/Monarch/Journals/Session 3.md",
+    "Ironsworn/Monarch/Journals/Session 4.md",
+    "Ironsworn/Monarch/Journals/Session 5.md",
+    "Ironsworn/Monarch/Journals/Session 6.md",
+    "Ironsworn/Monarch/Journals/Session 6b (bucket of bolts).md",
+    "Ironsworn/Monarch/Locations/Planets/Penumbra.md",
+    "Ironsworn/Monarch/Locations/Planets/Serein.md",
+    "Ironsworn/Monarch/Locations/Sectors/Morien Deep.canvas",
+    "Ironsworn/Monarch/Locations/Settlements/Bulwark.md",
+    "Ironsworn/Monarch/Locations/Settlements/Crux.md",
+    "Ironsworn/Monarch/Locations/Settlements/Meridian.md",
+    "Ironsworn/Monarch/Locations/Settlements/Prism.md",
+    "Ironsworn/Monarch/Locations/Elara Five.canvas",
+    "Ironsworn/Monarch/Lore/Exodus Arkships.md",
+    "Ironsworn/Monarch/Lore/Founder Clans.md",
+    "Ironsworn/Monarch/Lore/Marked.md",
+    "Ironsworn/Monarch/Lore/Rust.md",
+    "Ironsworn/Monarch/Lore/Sun Plague.md",
+    "Ironsworn/Monarch/Progress/Connection - Badger.md",
+    "Ironsworn/Monarch/Progress/Connection - Hellion.md",
+    "Ironsworn/Monarch/Progress/Connection - Spider.md",
+    "Ironsworn/Monarch/Progress/Escape Goldpact base.md",
+    "Ironsworn/Monarch/Progress/Fight Alisa.md",
+    "Ironsworn/Monarch/Progress/I swear to find Alisa Shepherd.md",
+    "Ironsworn/Monarch/Progress/I swear to find Aparna's killer.md",
+    "Ironsworn/Monarch/Progress/I vow to find my honor.md",
+    "Ironsworn/Monarch/Monarch.md",
+    "Ironsworn/Monarch/Truths.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Ironsworn/Monarch/Characters/Alisa “Badger” Shepherd.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 1061,
+      "exportedPath": "ironsworn/monarch/characters/alisa-“badger”-shepherd.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Characters/Aparna \"Hellion\" Solas.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 612,
+      "exportedPath": "ironsworn/monarch/characters/aparna-\"hellion\"-solas.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Characters/Argus “Spider” Shin.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 852,
+      "exportedPath": "ironsworn/monarch/characters/argus-“spider”-shin.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Characters/Elara Five.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 2148,
+      "exportedPath": "ironsworn/monarch/characters/elara-five.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Characters/Fey Zariri.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 2466,
+      "exportedPath": "ironsworn/monarch/characters/fey-zariri.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Factions/Faction Influence Grid.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 555,
+      "exportedPath": "ironsworn/monarch/factions/faction-influence-grid.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Factions/Order of the Ashen Stars.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 1155,
+      "exportedPath": "ironsworn/monarch/factions/order-of-the-ashen-stars.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Factions/Serene League.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 1044,
+      "exportedPath": "ironsworn/monarch/factions/serene-league.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Factions/Suns of the Stellar Commonwealth.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 942,
+      "exportedPath": "ironsworn/monarch/factions/suns-of-the-stellar-commonwealth.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Journals/Session 0.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 8824,
+      "exportedPath": "ironsworn/monarch/journals/session-0.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Journals/Session 1.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 5500,
+      "exportedPath": "ironsworn/monarch/journals/session-1.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Journals/Session 2.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 18828,
+      "exportedPath": "ironsworn/monarch/journals/session-2.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Journals/Session 3.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 18160,
+      "exportedPath": "ironsworn/monarch/journals/session-3.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Journals/Session 4.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 5589,
+      "exportedPath": "ironsworn/monarch/journals/session-4.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Journals/Session 5.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 5836,
+      "exportedPath": "ironsworn/monarch/journals/session-5.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Journals/Session 6.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 4148,
+      "exportedPath": "ironsworn/monarch/journals/session-6.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Journals/Session 6b (bucket of bolts).md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 49,
+      "exportedPath": "ironsworn/monarch/journals/session-6b-(bucket-of-bolts).html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Locations/Planets/Penumbra.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 837,
+      "exportedPath": "ironsworn/monarch/locations/planets/penumbra.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Locations/Planets/Serein.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 832,
+      "exportedPath": "ironsworn/monarch/locations/planets/serein.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Locations/Sectors/Morien Deep.canvas": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 3144,
+      "exportedPath": "ironsworn/monarch/locations/sectors/morien-deep.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Locations/Settlements/Bulwark.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 544,
+      "exportedPath": "ironsworn/monarch/locations/settlements/bulwark.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Locations/Settlements/Crux.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 760,
+      "exportedPath": "ironsworn/monarch/locations/settlements/crux.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Locations/Settlements/Meridian.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 700,
+      "exportedPath": "ironsworn/monarch/locations/settlements/meridian.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Locations/Settlements/Prism.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 854,
+      "exportedPath": "ironsworn/monarch/locations/settlements/prism.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Locations/Elara Five.canvas": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 7646,
+      "exportedPath": "ironsworn/monarch/locations/elara-five.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Lore/Exodus Arkships.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 332,
+      "exportedPath": "ironsworn/monarch/lore/exodus-arkships.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Lore/Founder Clans.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 215,
+      "exportedPath": "ironsworn/monarch/lore/founder-clans.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Lore/Marked.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 1021,
+      "exportedPath": "ironsworn/monarch/lore/marked.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Lore/Rust.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 386,
+      "exportedPath": "ironsworn/monarch/lore/rust.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Lore/Sun Plague.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 445,
+      "exportedPath": "ironsworn/monarch/lore/sun-plague.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Progress/Connection - Badger.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 160,
+      "exportedPath": "ironsworn/monarch/progress/connection-badger.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Progress/Connection - Hellion.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 163,
+      "exportedPath": "ironsworn/monarch/progress/connection-hellion.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Progress/Connection - Spider.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 159,
+      "exportedPath": "ironsworn/monarch/progress/connection-spider.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Progress/Escape Goldpact base.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 155,
+      "exportedPath": "ironsworn/monarch/progress/escape-goldpact-base.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Progress/Fight Alisa.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 146,
+      "exportedPath": "ironsworn/monarch/progress/fight-alisa.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Progress/I swear to find Alisa Shepherd.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 164,
+      "exportedPath": "ironsworn/monarch/progress/i-swear-to-find-alisa-shepherd.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Progress/I swear to find Aparna's killer.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 166,
+      "exportedPath": "ironsworn/monarch/progress/i-swear-to-find-aparna's-killer.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Progress/I vow to find my honor.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 149,
+      "exportedPath": "ironsworn/monarch/progress/i-vow-to-find-my-honor.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Monarch.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 302,
+      "exportedPath": "ironsworn/monarch/monarch.html",
+      "dependencies": []
+    },
+    "Ironsworn/Monarch/Truths.md": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 7531,
+      "exportedPath": "ironsworn/monarch/truths.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 41533,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 3465,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 137329,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 71778,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 2251292,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 347,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 5454,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1739376964510,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
